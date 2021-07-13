@@ -113,6 +113,7 @@ color: #212121;
 .pokemon-card__type--ground {
 	background: linear-gradient(rgb(247, 222, 63) 50%, rgb(171, 152, 66) 50%) rgb(247, 222, 63);
 	color: rgb(33, 33, 33);
+    
 }
 
 .pokemon-card__type--ice {
