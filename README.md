@@ -11,7 +11,7 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
 
 ## Node 
-v16.4.2
+Also was used [Node](https://nodejs.org/en/download/) the version - v16.4.2
 
 ## Code scaffolding
 
