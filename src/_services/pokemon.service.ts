@@ -4,7 +4,6 @@ import { HttpClient } from '@angular/common/http';
 import { from } from 'rxjs';
 import { map, mergeMap } from 'rxjs/operators';
 
-
 @Injectable({
   providedIn: 'root'
 })
