@@ -44,6 +44,8 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 <li> Use of service understanding a little more about the client side
 </ul>
 
+### CSS
 
+![alt text](https://github.com/henry-jessica/MyApplicationAngular/blob/main/pokendex_jessica.jpg)
 
 
